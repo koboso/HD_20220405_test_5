@@ -1,0 +1,14 @@
+C:\Users\koboso\Documents\GitHub\HD_20220405_test_5\Test_5\Test_5\bin\Debug\netcoreapp3.1\Test_5.exe
+C:\Users\koboso\Documents\GitHub\HD_20220405_test_5\Test_5\Test_5\bin\Debug\netcoreapp3.1\Test_5.deps.json
+C:\Users\koboso\Documents\GitHub\HD_20220405_test_5\Test_5\Test_5\bin\Debug\netcoreapp3.1\Test_5.runtimeconfig.json
+C:\Users\koboso\Documents\GitHub\HD_20220405_test_5\Test_5\Test_5\bin\Debug\netcoreapp3.1\Test_5.runtimeconfig.dev.json
+C:\Users\koboso\Documents\GitHub\HD_20220405_test_5\Test_5\Test_5\bin\Debug\netcoreapp3.1\Test_5.dll
+C:\Users\koboso\Documents\GitHub\HD_20220405_test_5\Test_5\Test_5\bin\Debug\netcoreapp3.1\Test_5.pdb
+C:\Users\koboso\Documents\GitHub\HD_20220405_test_5\Test_5\Test_5\obj\Debug\netcoreapp3.1\Test_5.csproj.AssemblyReference.cache
+C:\Users\koboso\Documents\GitHub\HD_20220405_test_5\Test_5\Test_5\obj\Debug\netcoreapp3.1\Test_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koboso\Documents\GitHub\HD_20220405_test_5\Test_5\Test_5\obj\Debug\netcoreapp3.1\Test_5.AssemblyInfoInputs.cache
+C:\Users\koboso\Documents\GitHub\HD_20220405_test_5\Test_5\Test_5\obj\Debug\netcoreapp3.1\Test_5.AssemblyInfo.cs
+C:\Users\koboso\Documents\GitHub\HD_20220405_test_5\Test_5\Test_5\obj\Debug\netcoreapp3.1\Test_5.csproj.CoreCompileInputs.cache
+C:\Users\koboso\Documents\GitHub\HD_20220405_test_5\Test_5\Test_5\obj\Debug\netcoreapp3.1\Test_5.dll
+C:\Users\koboso\Documents\GitHub\HD_20220405_test_5\Test_5\Test_5\obj\Debug\netcoreapp3.1\Test_5.pdb
+C:\Users\koboso\Documents\GitHub\HD_20220405_test_5\Test_5\Test_5\obj\Debug\netcoreapp3.1\Test_5.genruntimeconfig.cache
